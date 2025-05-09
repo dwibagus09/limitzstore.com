@@ -1,0 +1,101 @@
+/* DESKTOP VERSION */
+@media screen AND (min-width: 460px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1080px;
+    }
+    .eniv-feature-content p {
+        margin-left: 102px;
+    }
+}
+/* TABLET VERSION */
+@media screen AND (max-width: 768px) {
+    .games-item h6 {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+    .games-item span {
+        font-size: 11px;
+    }
+    .games-category {
+        margin-bottom: 0;
+    }
+}
+/* MOBILE VERSION */
+@media screen AND (max-width: 460px) {
+    .eniv-content {
+        padding-top: 60px;
+    }
+    .eniv-feature-img {
+        min-height: 100px;
+    }
+    .eniv-feature-img img {
+        margin-right: 16px;
+        width: 60px;
+    }
+    .games-item h6 {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+    .eniv-games-banner {
+        height: 186px;
+    }
+    .games-item span {
+        font-size: 11px;
+    }
+    .games-category {
+        margin-bottom: 0;
+    }
+    .eniv-auth {
+        margin-left: 4px;
+    }
+    .eniv-row {
+        padding: 0 6px;
+    }
+    .eniv-col {
+        padding: 0 6px;
+    }
+    #modalKonfirmasi .modal-dialog .modal-body {
+        padding: 16px;
+    }
+    .eniv-parent-table-orders {
+        margin-top: -12px;
+    }
+    .eniv-parent-table-orders .dataTables_info {
+        margin-bottom: 16px;
+    }
+    .card-auth {
+        background-image: none !important;
+    }
+    .eniv-img-card-overlay {
+        display: none;
+    }
+    .eniv-search-button {
+        display: inline-block;
+    }
+    .eniv-search-input {
+        display: none;
+        position: fixed;
+        left: 0;
+        top: 78px;
+        padding: 0 12px;
+        width: 100%;
+    }
+    .eniv-search-input.show {
+        display: block;
+    }
+    .eniv-search .eniv-search-input input {
+        width: 100%;
+        padding: 14px 20px;
+        background: var(--warna_2);
+    }
+    .eniv-search .eniv-search-input button {
+        width: 38px;
+        height: 38px;
+        margin-left: 0;
+        float: right;
+        z-index: 1;
+        position: relative;
+        margin-top: -44px;
+        margin-right: 6px;
+    }
+}

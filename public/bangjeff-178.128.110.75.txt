@@ -1,0 +1,1 @@
+{"inputs":"12312312|1234","invoice_number":"BJxxxxxxxxxxxx","last_balance":"100000.00","nickname":"GOLANG","reference_number":"123456798","status_code":"SUCCESS","status_date":"2023-12-29 20:13:04","status_desc":"Berhasil Terkirim","total_price":1200,"variant_code":"1403","variant_name":"1.000 Saldo","voucher":"XXX-XXX-XXX"}
